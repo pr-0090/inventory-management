@@ -58,37 +58,23 @@ Welcome to the Inventory Management Web App documentation. This web application 
 ## Getting Started
 
 ### Frontend (React.js)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ankityadav09/Inventory-Management.git
-   ```
-
-2. Navigate to the frontend directory:
+1. Navigate to the frontend directory:
    ```bash
    cd frontend
    ```
 
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
 ### Backend (Spring Boot, Hibernate, MySQL)
-
-1. Clone the repository (if not done already):
-   ```bash
-   git clone https://github.com/ankityadav09/Inventory-Management.git
-
-   Get Backend folder from cloned project.
-   ```
-
-2. Navigate to the backend directory:
+1. Navigate to the backend directory:
    ```bash
    cd backend
    ```
 
-3. Build the project:
+2. Build the project:
    ```bash
    mvn clean install
    ```
@@ -101,7 +87,7 @@ Configure the database connection details in `application.properties` file.
 # Database Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/inventorydb
 spring.datasource.username=root
-spring.datasource.password=password
+spring.datasource.password=preeti123
 ...
 ```
 
