@@ -1,0 +1,49 @@
+.fa {
+    padding: 20px;
+    font-size: 15px;
+    /* width: 50px; */
+    /* text-align: center; */
+    /* text-decoration: none; */
+    /* border-radius: 50%; */
+    /* position: sticky; */
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 100%;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+  }
+  .fa-google{
+    background: white;
+    color: #ee5555;
+    border-radius: 100%;
+  }
+  .fa-whatsapp{
+    background: white;
+    color: green;
+    border-radius: 1cm;
+  }
+  .fa-github{
+    background: gray;
+    color: white;
+    border-radius: 100%;
+  }
+  .fa-linkedin{
+    background: white;
+    color: blue;
+    border-radius: 100%;
+  }
+  .fa-telegram{
+    background: white;
+    color: blue;
+    border-radius: 55%;
+  }
